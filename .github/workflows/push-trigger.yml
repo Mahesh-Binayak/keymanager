@@ -96,7 +96,6 @@ jobs:
 
   jira_dependabot_integration:
     if: github.actor == 'dependabot[bot]'
-    needs: build-maven-registration
     uses: mahesh-binayak/kattu/.github/workflows/jira-dependabot-integration.yml@develop
     with:
       jira_project: "MOSIP"
