@@ -40,7 +40,7 @@
 		<com.nimbusds.nimbus-jose-jwt.version>9.37.2</com.nimbusds.nimbus-jose-jwt.version>
 		<io.projectreactor.reactor-core.version>3.1.7.RELEASE</io.projectreactor.reactor-core.version>
 		<de.mkammerer.argon2-jvm-nolibs.version>2.11</de.mkammerer.argon2-jvm-nolibs.version>
-		<net.java.dev.jna.version>5.13.0</net.java.dev.jna.version>
+		<net.java.dev.jna.version>5.16.0</net.java.dev.jna.version>
 		<spring.boot.maven.plugin>3.2.3</spring.boot.maven.plugin>
 		<jacoco.maven.plugin.version>0.8.11</jacoco.maven.plugin.version>
 		<junit.version>4.12</junit.version>
